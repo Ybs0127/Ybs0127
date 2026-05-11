@@ -33,3 +33,5 @@
 ### 📈 Current Focus & Goals
 - [ ] **한화비전 VEDA:** 임베디드 SW 전문가 과정 수료 중 (Linux Kernel & Device Driver)
 - [ ] **Language:** TOEIC 725/990 (졸업요건을 위한 첫시험 VEDA 종료 후 업데이트 예정)
+
+### Github: https://github.com/Ybs0127
