@@ -16,7 +16,7 @@
 #### 1. AI 기반 골프 스윙 피드백 시스템 (Graduation Project)
 - **Role:** 백엔드 아키텍처 및 데이터 파이프라인 설계
 - **Challenge:** AI 분석 결과와 영상 데이터 간의 동기화 문제 해결
-- **Repo:** [golf-coach-AI](https://github.com/Ybs0127/golf-coach-AI)
+- **Repo:** [golf-coach-AI](https://github.com/tama0728/golf-coach-AI)
 
 #### 2. notunnel: 실차 위치 모니터링 시스템
 - **Role:** 실시간 위치 데이터 시각화 및 경로 로직 구현
