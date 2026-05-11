@@ -1,13 +1,13 @@
-# 🚗 Song Young-bin (송영빈) | Embedded SW Engineer
+# 🚗 Youngbin Song (송영빈) | Embedded SW Engineer
 
- 하나를 해도 최선을 다하자" > 백엔드의 논리적 설계 역량과 임베디드 리눅스의 로우레벨 제어 지식을 겸비한송영빈입니다.
+ 하나를 해도 최선을 다하자" > 백엔드의 논리적 설계 역량과 임베디드 리눅스의 로우레벨 제어 지식을 겸비한 송영빈입니다.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** `C`, `C++`, `Python`, `JavaScript`, `SQL`
-- **Frameworks/Tools:** `Qt`, `Linux (Ubuntu)`, `FastAPI`, `Git`, `Docker`
-- **Focus:** `Embedded System`, `BSW`, `Real-time Location Monitoring`
+- **Languages:** `C`, `C++`, `Python`, `Java`, `JavaScript`, `SQL`
+- **Frameworks/Tools:** `Pycharm`, `CLion`, `IntelliJ`, `AWS EC2`, `MariaDB`, `Qt`, `Linux (Ubuntu)`, `Git`
+- **Focus:** `Embedded System`, `Automobile`, `ECU`
 
 ---
 
@@ -32,5 +32,4 @@
 
 ### 📈 Current Focus & Goals
 - [ ] **한화비전 VEDA:** 임베디드 SW 전문가 과정 수료 중 (Linux Kernel & Device Driver)
-- [ ] **Certificates:** 정보처리기사, SQLD, ADsP 취득 준비
 - [ ] **Language:** TOEIC 725/990 (졸업요건을 위한 첫시험 VEDA 종료 후 업데이트 예정)
